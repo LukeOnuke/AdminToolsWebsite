@@ -1,0 +1,77 @@
+{
+    "title": "Admin Tools : : Startseite",
+    "comming_soon": "Kommt bald",
+    "download": "Herunterladen",
+    "documentation": "Dokumentation",
+    "source_code": "Quellcode",
+    "footer": "ist eine Marke von Mojang Synergies AD, LukeOnuke ist nicht mit Mojang Synergies AD verbunden.",
+    "lang": {
+        "german": "Deutsch",
+        "english": "Englisch"
+    },
+    "nav": {
+        "home": "Startseite",
+        "docs": "Docs",
+        "code": "Code",
+        "licence": "Lizenz",
+        "current": "Aktuell"
+    },
+    "header": {
+        "title": "Admin Tools",
+        "desc": "Die Minecraft-Verwaltungstools, nach denen Sie gesucht haben."
+    },
+    "subheader": {
+        "title": "Von Admins für Admins gebaut",
+        "desc": "Vollgepackt mit allen Funktionen, die ein moderner Administrator benötigt"
+    },
+    "features": {
+        "title": "Noteworthy features",
+        "res": {
+            "title": "Antwort-Highlight",
+            "desc": "Rcon antwortet farbig wie im Spiel."
+        },
+        "enc": {
+            "title": "Verschlüsselte Anmeldeinformationen",
+            "desc": "Sicherheit ist in der heutigen Zeit gefragt."
+        },
+        "api": {
+            "title": "Server- und Mojang-API-Status",
+            "desc": "Sie müssen nicht mehr auf Websites nach dem Status suchen."
+        },
+        "script": {
+            "title": "Scripting- und Modding-Fähigkeit",
+            "desc": "Befehlsabkürzungen, ausführbare Skripte, Themen."
+        }
+    },
+    "gallery": {
+        "title": "Galerie von Screenshots",
+        "desc": "Das Aussehen des Programms kann sich ändern, daher sind die Screenshots möglicherweise nicht 100 % genau. Aber sie zeigen den Look.",
+        "home": {
+            "title": "Startseite",
+            "desc": "Unterstützung für mehrere Anmeldeinformationen mit diesen schicken Karten."
+        },
+        "rcon": {
+            "title": "Rcon",
+            "desc": "Schnell, reaktionsschnell und farbig. Alles, was Sie von einem rcon-Client benötigen."
+        },
+        "status": {
+            "title": "Status",
+            "desc": "Status des Servers, mit dem Sie verbunden sind, und der Status der Mojang-APIs."
+        },
+        "settings": {
+            "title": "Einstellungen",
+            "desc": "Alle Dinge in einem übersichtlichen kleinen Menü."
+        }
+    },
+    "getting_started": {
+        "title": "Einstieg",
+        "start": {
+            "subtitle": "Schnellstart.",
+            "desc": "Dateien für einen schnellen Start."
+        },
+        "dev": {
+            "subtitle": "Development",
+            "desc": "Dateien für die Entwicklung"
+        }
+    }
+}
