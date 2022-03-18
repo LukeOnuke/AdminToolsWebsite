@@ -1,77 +1,77 @@
 {
-    "title": "Admin Tools : : Startseite",
-    "comming_soon": "Kommt bald",
-    "download": "Herunterladen",
-    "documentation": "Dokumentation",
-    "source_code": "Quellcode",
-    "footer": "ist eine Marke von Mojang Synergies AD, LukeOnuke ist nicht mit Mojang Synergies AD verbunden.",
+    "title": "Admin Tools : : Home",
+    "comming_soon": "Comming Soon",
+    "download": "Download",
+    "documentation": "Documentation",
+    "source_code": "Source Code",
+    "footer": "is a trademark of Mojang Synergies AD, LukeOnuke is not affiliated with Mojang Synergies AD.",
     "lang": {
-        "german": "Deutsch",
-        "english": "Englisch"
+        "german": "German",
+        "english": "English"
     },
     "nav": {
-        "home": "Startseite",
+        "home": "Home",
         "docs": "Docs",
         "code": "Code",
-        "licence": "Lizenz",
-        "current": "Aktuell"
+        "licence": "Licence",
+        "current": "Current"
     },
     "header": {
         "title": "Admin Tools",
-        "desc": "Die Minecraft-Verwaltungstools, nach denen Sie gesucht haben."
+        "desc": "The minecraft administration tools you were looking for."
     },
     "subheader": {
-        "title": "Von Admins für Admins gebaut",
-        "desc": "Vollgepackt mit allen Funktionen, die ein moderner Administrator benötigt"
+        "title": "Built by admins for admins",
+        "desc": "Packed with all the features a modern administrator needs"
     },
     "features": {
         "title": "Noteworthy features",
         "res": {
-            "title": "Antwort-Highlight",
-            "desc": "Rcon antwortet farbig wie im Spiel."
+            "title": "Response highlight",
+            "desc": "Rcon responces colored like they would be in game."
         },
         "enc": {
-            "title": "Verschlüsselte Anmeldeinformationen",
-            "desc": "Sicherheit ist in der heutigen Zeit gefragt."
+            "title": "Encrypted credentials",
+            "desc": "Security is needed at this day and age."
         },
         "api": {
-            "title": "Server- und Mojang-API-Status",
-            "desc": "Sie müssen nicht mehr auf Websites nach dem Status suchen."
+            "title": "Server and mojang api status",
+            "desc": "No need to look at websites for status any longer."
         },
         "script": {
-            "title": "Scripting- und Modding-Fähigkeit",
-            "desc": "Befehlsabkürzungen, ausführbare Skripte, Themen."
+            "title": "Scripting and modding capability",
+            "desc": "Command abrevations, executable scripts, Themes."
         }
     },
     "gallery": {
-        "title": "Galerie von Screenshots",
-        "desc": "Das Aussehen des Programms kann sich ändern, daher sind die Screenshots möglicherweise nicht 100 % genau. Aber sie zeigen den Look.",
+        "title": "Gallery of screenshots",
+        "desc": "Look of the program is subject to change, so the screenshots might not be 100% accurate. But they show off the look.",
         "home": {
-            "title": "Startseite",
-            "desc": "Unterstützung für mehrere Anmeldeinformationen mit diesen schicken Karten."
+            "title": "Home",
+            "desc": "Multi credential support with these snazzy cards."
         },
         "rcon": {
             "title": "Rcon",
-            "desc": "Schnell, reaktionsschnell und farbig. Alles, was Sie von einem rcon-Client benötigen."
+            "desc": "Fast, responsive and colored. Everything you need out of a rcon client."
         },
         "status": {
             "title": "Status",
-            "desc": "Status des Servers, mit dem Sie verbunden sind, und der Status der Mojang-APIs."
+            "desc": "Status of the server you are connected to and the status of Mojang api-s."
         },
         "settings": {
-            "title": "Einstellungen",
-            "desc": "Alle Dinge in einem übersichtlichen kleinen Menü."
+            "title": "Settings",
+            "desc": "All the things in a neat little menu."
         }
     },
     "getting_started": {
-        "title": "Einstieg",
+        "title": "Getting started",
         "start": {
-            "subtitle": "Schnellstart.",
-            "desc": "Dateien für einen schnellen Start."
+            "subtitle": "Quick start",
+            "desc": "Files for a quick start"
         },
         "dev": {
             "subtitle": "Development",
-            "desc": "Dateien für die Entwicklung"
+            "desc": "Files for development"
         }
     }
 }
