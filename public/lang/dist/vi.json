@@ -1,0 +1,77 @@
+{
+    "title": "Admin Tools : : Home",
+    "comming_soon": "Comming Soon",
+    "download": "Download",
+    "documentation": "Documentation",
+    "source_code": "Source Code",
+    "footer": "is a trademark of Mojang Synergies AD, LukeOnuke is not affiliated with Mojang Synergies AD.",
+    "lang": {
+        "german": "German",
+        "english": "English"
+    },
+    "nav": {
+        "home": "Home",
+        "docs": "Docs",
+        "code": "Code",
+        "licence": "Licence",
+        "current": "Current"
+    },
+    "header": {
+        "title": "Admin Tools",
+        "desc": "The minecraft administration tools you were looking for."
+    },
+    "subheader": {
+        "title": "Built by admins for admins",
+        "desc": "Packed with all the features a modern administrator needs"
+    },
+    "features": {
+        "title": "Noteworthy features",
+        "res": {
+            "title": "Response highlight",
+            "desc": "Rcon responces colored like they would be in game."
+        },
+        "enc": {
+            "title": "Encrypted credentials",
+            "desc": "Security is needed at this day and age."
+        },
+        "api": {
+            "title": "Server and mojang api status",
+            "desc": "No need to look at websites for status any longer."
+        },
+        "script": {
+            "title": "Scripting and modding capability",
+            "desc": "Command abrevations, executable scripts, Themes."
+        }
+    },
+    "gallery": {
+        "title": "Gallery of screenshots",
+        "desc": "Look of the program is subject to change, so the screenshots might not be 100% accurate. But they show off the look.",
+        "home": {
+            "title": "Home",
+            "desc": "Multi credential support with these snazzy cards."
+        },
+        "rcon": {
+            "title": "Rcon",
+            "desc": "Fast, responsive and colored. Everything you need out of a rcon client."
+        },
+        "status": {
+            "title": "Status",
+            "desc": "Status of the server you are connected to and the status of Mojang api-s."
+        },
+        "settings": {
+            "title": "Settings",
+            "desc": "All the things in a neat little menu."
+        }
+    },
+    "getting_started": {
+        "title": "Getting started",
+        "start": {
+            "subtitle": "Quick start",
+            "desc": "Files for a quick start"
+        },
+        "dev": {
+            "subtitle": "Development",
+            "desc": "Files for development"
+        }
+    }
+}
