@@ -1,12 +1,14 @@
 const path = require("path");
 
-const mode = 'development'
+const mode = 'production' // production or development
 const port = 80;
 const openBrowser = true;
 
 module.exports = {
     entry: {
-        app: ["./src/index.js"],
+        app: [
+            "./src/index.js"
+        ],
     },
     output: {
         filename: "bundle.js",
@@ -19,7 +21,7 @@ module.exports = {
         port: port,
         open: openBrowser,
         historyApiFallback: {
-            index: "index.html",
+            index: "index.html"
         },
         static: "public",
     },
